@@ -1,0 +1,6 @@
+C:\Users\nas\Documents\Bootcamp\Deliverable\Delivreable\Delivreable1\bin\Debug\Delivreable1.exe.config
+C:\Users\nas\Documents\Bootcamp\Deliverable\Delivreable\Delivreable1\bin\Debug\Delivreable1.exe
+C:\Users\nas\Documents\Bootcamp\Deliverable\Delivreable\Delivreable1\bin\Debug\Delivreable1.pdb
+C:\Users\nas\Documents\Bootcamp\Deliverable\Delivreable\Delivreable1\obj\Debug\Delivreable1.csproj.CoreCompileInputs.cache
+C:\Users\nas\Documents\Bootcamp\Deliverable\Delivreable\Delivreable1\obj\Debug\Delivreable1.exe
+C:\Users\nas\Documents\Bootcamp\Deliverable\Delivreable\Delivreable1\obj\Debug\Delivreable1.pdb
